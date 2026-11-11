@@ -17,6 +17,11 @@ how you could use simple mechanisms to guide a ball around of course and so i wa
 - the 4rth is the infamous ball slider where the user must generate enough on the ball by splitting the bars without the ball falling through.
 - the 5th is a platform where the user is able to control tilt by moving a controller. Then you win i guess or you design another path or more
   obstacles etc
+|what is it |cost|supplier|
+|-----------|----|---------|
+|cost to 3d print(from a supplier)| 27.51| printing legion (as this is a project)|
+| shipping | 5 (for me) | printing legion| 
+
 
 
 
