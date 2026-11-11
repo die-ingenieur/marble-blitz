@@ -3,10 +3,12 @@
 
 A interactive game of buttons, controllers, and levers to control a ball through a track
 
-Why i made it:
+## Why i made it:
 I took heavy inspiration from a pre-existing game screwball scramble. I always found it fascinating 
 how you could use simple mechanisms to guide a ball around of course and so i wanted to attempt to create my own course with a unique structure and mechanisms.
 
-How the parts fit:
+## How the parts fit:
+- this model was designed to be 3d printed in multiple seperate parts assembled together after.
+- the models are currently unsliced so you will have to do it yourself
 - the main mechanism fits in the bottom and the obstacles will be placed in the upper layer.
 - I plan to spit the project into many different parts to 3d print them and combine them into my final project at the end.
